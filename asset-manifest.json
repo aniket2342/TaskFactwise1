@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskFactwise1/static/css/main.aaec8b33.css",
+    "main.js": "/TaskFactwise1/static/js/main.71fb4c96.js",
+    "static/js/453.0a36081d.chunk.js": "/TaskFactwise1/static/js/453.0a36081d.chunk.js",
+    "index.html": "/TaskFactwise1/index.html",
+    "main.aaec8b33.css.map": "/TaskFactwise1/static/css/main.aaec8b33.css.map",
+    "main.71fb4c96.js.map": "/TaskFactwise1/static/js/main.71fb4c96.js.map",
+    "453.0a36081d.chunk.js.map": "/TaskFactwise1/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaec8b33.css",
+    "static/js/main.71fb4c96.js"
+  ]
+}
